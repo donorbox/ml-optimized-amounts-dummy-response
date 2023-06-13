@@ -1,29 +1,24 @@
 {
-  "suggestions": [
+  "amounts": [
     {
-      "id": 1,
-      "amounts": [
-        {
-          "value": 11,
-          "description": "lt_20"
-        },
-        {
-          "value": 111,
-          "description": "lt_200"
-        },
-        {
-          "value": 1111,
-          "description": "lt_2000"
-        },
-        {
-          "value": 11111,
-          "description": "lt_20000"
-        },
-        {
-          "value": 111111,
-          "description": "lt_200000"
-        }
-      ]
+      "value": 11,
+      "description": "lt_20"
+    },
+    {
+      "value": 111,
+      "description": "lt_200"
+    },
+    {
+      "value": 1111,
+      "description": "lt_2000"
+    },
+    {
+      "value": 11111,
+      "description": "lt_20000"
+    },
+    {
+      "value": 111111,
+      "description": "lt_200000"
     }
   ]
 }
